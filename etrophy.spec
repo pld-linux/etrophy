@@ -1,8 +1,8 @@
-Summary:	Terminology - EFL terminal emulator
-Summary(pl.UTF-8):	Terminology - emulator terminala oparty na EFL
+Summary:	Etrophy - library to manage scores, trophies and unlockables
+Summary(pl.UTF-8):	Etrophy - biblioteka do zarządzania wynikami, trofeami i otwarciami
 Name:		etrophy
 Version:	0.5.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications
 Source0:	http://download.enlightenment.org/releases/%{name}-%{version}.tar.bz2
