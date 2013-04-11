@@ -2,9 +2,9 @@ Summary:	Etrophy - library to manage scores, trophies and unlockables
 Summary(pl.UTF-8):	Etrophy - biblioteka do zarządzania wynikami, trofeami i otwarciami
 Name:		etrophy
 Version:	0.5.1
-Release:	2
+Release:	3
 License:	BSD
-Group:		Applications
+Group:		Libraries
 Source0:	http://download.enlightenment.org/releases/%{name}-%{version}.tar.bz2
 # Source0-md5:	ed8aabe52b71e54db6f9104725e61645
 URL:		http://enlightenment.org/
