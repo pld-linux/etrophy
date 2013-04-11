@@ -21,7 +21,7 @@ Requires:	ecore >= 1.7.0
 Requires:	ecore-file >= 1.7.0
 Requires:	eet >= 1.7.0
 Requires:	eina >= 1.7.0
-Requires:	elementary >= 1.7.0
+Requires:	elementary-libs >= 1.7.0
 Requires:	evas >= 1.7.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
